@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		37A3303020E4BB4C0056F8AE /* AR ruler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR ruler.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37A3303020E4BB4C0056F8AE /* ARuler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARuler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37A3303320E4BB4C0056F8AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37A3303520E4BB4C0056F8AE /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		37A3303720E4BB4C0056F8AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		37A3303120E4BB4C0056F8AE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				37A3303020E4BB4C0056F8AE /* AR ruler.app */,
+				37A3303020E4BB4C0056F8AE /* ARuler.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		37A3302F20E4BB4C0056F8AE /* AR ruler */ = {
+		37A3302F20E4BB4C0056F8AE /* ARuler */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 37A3304420E4BB4E0056F8AE /* Build configuration list for PBXNativeTarget "AR ruler" */;
+			buildConfigurationList = 37A3304420E4BB4E0056F8AE /* Build configuration list for PBXNativeTarget "ARuler" */;
 			buildPhases = (
 				37A3302C20E4BB4C0056F8AE /* Sources */,
 				37A3302D20E4BB4C0056F8AE /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "AR ruler";
+			name = ARuler;
 			productName = "AR ruler";
-			productReference = 37A3303020E4BB4C0056F8AE /* AR ruler.app */;
+			productReference = 37A3303020E4BB4C0056F8AE /* ARuler.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 37A3302B20E4BB4C0056F8AE /* Build configuration list for PBXProject "AR ruler" */;
+			buildConfigurationList = 37A3302B20E4BB4C0056F8AE /* Build configuration list for PBXProject "ARuler" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				37A3302F20E4BB4C0056F8AE /* AR ruler */,
+				37A3302F20E4BB4C0056F8AE /* ARuler */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		37A3302B20E4BB4C0056F8AE /* Build configuration list for PBXProject "AR ruler" */ = {
+		37A3302B20E4BB4C0056F8AE /* Build configuration list for PBXProject "ARuler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				37A3304220E4BB4E0056F8AE /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		37A3304420E4BB4E0056F8AE /* Build configuration list for PBXNativeTarget "AR ruler" */ = {
+		37A3304420E4BB4E0056F8AE /* Build configuration list for PBXNativeTarget "ARuler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				37A3304520E4BB4E0056F8AE /* Debug */,

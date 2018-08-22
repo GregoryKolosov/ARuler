@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AR ruler.xcodeproj">
+      location = "self:/Users/gregorykolosov/Desktop/Development/myApps/AR ruler/ARuler.xcodeproj">
    </FileRef>
 </Workspace>
